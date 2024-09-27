@@ -1,1 +1,11 @@
-prueba
+.secciones{
+    margin: 20pt
+}
+
+.accordion-item{
+    background-color: aliceblue;
+}
+
+.accordion-button{
+    background-color: blue;
+}
